@@ -12,6 +12,8 @@
     <modules>
         <module>Spring-Boot-Starter-Demo</module>
         <module>Spring-Boot-Starter-Demo-Test</module>
+        <module>springboot-shareding-jdbc-demo</module>
+        <module>spring-boot-docker-demo</module>
     </modules>
 
     <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter -->
