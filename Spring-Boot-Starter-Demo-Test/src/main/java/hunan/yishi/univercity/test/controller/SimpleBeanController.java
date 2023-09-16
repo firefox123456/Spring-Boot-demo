@@ -23,4 +23,6 @@ public class SimpleBeanController {
     public String test(){
         return simpleBean.toString();
     }
+
+
 }
